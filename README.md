@@ -3,9 +3,9 @@
 Sistema de gerenciamento de tarefas desenvolvido para a disciplina.
 
 ## Integrantes
-- Seu nome - NUSP
-- Nome colega - NUSP
-- Nome colega - NUSP
+- André Marcelino Watanabe - 14558311
+- Nome  - NUSP
+- Nome  - NUSP
 
 ## Funcionalidades
 - Criar tarefas
